@@ -1,0 +1,7 @@
+a = int(input("Enter a number:"))
+b = int(input("Enter another number:"))
+print(f"sum of {a} and {b}:", a+b)
+print(f"substraction of {a} and {b}:", a-b)
+print(f"multiplication of {a} and {b}:", a*b)
+print(f"division of {a} and {b}:", a/b)
+print(f"modulo of {a} and {b}:", a%b)
