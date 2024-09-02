@@ -1,4 +1,5 @@
 def weekday(n):
+   
    match n:
       case 0: return "Monday"
       case 1: return "Tuesday"
@@ -11,3 +12,4 @@ def weekday(n):
 
 print (weekday(5))
 print (weekday(8))
+
